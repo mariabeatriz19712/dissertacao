@@ -1,0 +1,18 @@
+# Resultados Complementares à Dissertação: Terá a democratização impacto no ritmo de progresso tecnológico e no desenvolvimento económico?
+
+Este repositório contém os resultados adicionais que não foram incluídos diretamente na dissertação, mas que complementam a análise.
+
+## 📌 Descrição dos Conteúdos
+
+Os ficheiros incluídos neste repositório abrangem as seguintes análises:
+
+- ✅ **Modelo com IDH (Índice de Desenvolvimento Humano) como variável dependente**  
+  
+- ✅ **Termo de interação por nível de rendimento, com a variável dependente PIB _per capita_**
+
+- ✅ **Base de dados em formato _tidy_ (dados organizados)**  
+  - A base de dados utilizada está estruturada em formato _tidy_ e foi carregada e tratada no **Stata**.
+
+## 🧪 Software Utilizado
+
+- **Stata**: Os dados foram preparados e executados em Stata.
