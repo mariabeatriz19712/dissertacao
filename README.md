@@ -20,4 +20,5 @@ Os ficheiros incluídos neste repositório abrangem as seguintes análises:
 
 ## 🧪 Software Utilizado
 
-- **Stata**: Os dados foram preparados e analisados com recurso ao Stata.
+- **Excel**: Utilizado na fase de preparação e organização inicial dos dados.  
+- **Stata**: Utilizado para tratamento, análise e execução dos modelos estatísticos.
